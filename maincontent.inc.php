@@ -2,7 +2,7 @@
     <h1> <?php  echo $p ?> </h1>
     <div class="data">
         <div class="myImg">
-            <?php  echo '<img src="img/cat2.jpg">'; ?>
+            <?php echo '<img src="img/cat2_transparency.png">'; ?>
         </div>
         <div class="fullname">
             <p> Меня зовут 
@@ -15,6 +15,7 @@
                 <?php echo $age; ?>
                 лет
             </p>
+            <br>
             <p> Мы научились создавать переменные </p>
             <p> Изучили простые операции с ними </p>
             <p> и еще много разной фигни. </p>

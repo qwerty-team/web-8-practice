@@ -1,3 +1,3 @@
 <div class="logo"> 
-    <img src="img/cat.jpg" alt="cat" height="100">
+    <img src="img/cat_transparence.png" alt="cat">
 </div>

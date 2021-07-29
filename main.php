@@ -13,9 +13,10 @@
             <?php include "logo.inc.php" ?>
             <?php include "menu.inc.php" ?>
         </div>
-        <div class="main-content">
+        <!-- <div class="main-content">
             <?php include "maincontent.inc.php" ?>
-        </div>
+        </div> -->
+        <?php include "maincontent.inc.php" ?>
         <div class="footer">
             <?php include "footer.inc.php" ?>
         </div>
